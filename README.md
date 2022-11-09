@@ -6,3 +6,4 @@ This project demonstrates basic html skills such as:
 - Relative page links
 - Linking to images
 - Lists
+- Basic CSS
